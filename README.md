@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emanuela. 
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning JavaScript.
 - 🎯 2023 goal: start my new career as a web developer!
 
 
