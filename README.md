@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Emanuela. 
-- 🌱 I’m currently learning JavaScript.
+- 👋 Hi, my name is Emanuela and I'm 22. 
+- ✈️ Happily a victim of wanderlust. 
+- 📚 I'm not only a tech enthusiast, but also a bookworm.
+- 🔭 Currently searching for new ideas to develop. 
 - 🎯 2023 goal: start my new career as a web developer!
 
 
