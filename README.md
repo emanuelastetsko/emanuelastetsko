@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Emanuela and I'm 22. 
+- 👋 Hi, my name is Emanuela and I'm 23. 
 - ✈️ A happy victim of wanderlust. 
 - 📚 Not only a tech enthusiast, but also a bookworm.
 - 🔭 Currently searching for new ideas to develop. 
